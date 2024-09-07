@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+
+    background-image: url(img/bg.jpeg);
+    backdrop-filter: blur(10px);
+    background-size: cover;
+    position: relative;
+  
+   
+
+
+
+}
+.one{
+    width: 250px;
+    height:250px;
+    border-radius: 20%;
+    background: rgb(236, 227, 187);
+}
+.joy{
+    margin-top: 30px;;
+}
+.two{
+    font-size: larger;
+    font: bold;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:yellow;
+}
+.t{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orange;
+}
